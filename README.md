@@ -1,4 +1,11 @@
 ## Industrial Copper Modeling
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red?style=flat&logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.x-F7931E?style=flat&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/XGBoost-1.x-FF6600?style=flat&logo=xgboost)
+![Pandas](https://img.shields.io/badge/Pandas-2.x-green?style=flat&logo=pandas)
+![Pickle](https://img.shields.io/badge/Model%20Serialization-Pickle-yellow?style=flat)
+
 An end-to-end **Machine Learning application** for the industrial copper market that predicts:
 1. **Selling Price** — Regression model predicting the exact selling price
 2. **Transaction Status** — Classification model predicting Won / Lost outcome
